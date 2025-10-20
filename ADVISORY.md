@@ -43,8 +43,8 @@ Physical insertion of an SD (TF) card containing a malicious `update.tar` archiv
 
 Due to the lack of cooperation from the vendor, an image is provided as proof of the exploit's effectiveness.
 The following image shows the results of the attack, demonstrating successful root access.
-![Screenshot PoC Privilege Escalation](assets/PoC(2).png)
-(Image link: [https://github.com/MMarble21/Smart-camera-privilege-escalation/blob/main/assets/PoC(2).png](https://github.com/MMarble21/Smart-camera-privilege-escalation/blob/main/assets/PoC(2).png))
+
+<img width="1004" height="264" alt="PoC (2)" src="https://github.com/user-attachments/assets/1a88956c-6968-46e5-a225-1ce8d99cf6c5" />
 
 ### Mitigation/Solution
 Currently, no official patch has been released by the vendor. Users are advised to limit physical access to devices, if possible.
