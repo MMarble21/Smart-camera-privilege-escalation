@@ -67,5 +67,5 @@ Currently, no official patch has been released by the vendor. Users are advised 
 This vulnerability is being disclosed in accordance with a 90-day coordinated disclosure policy. The information contained in this report was not made public until the deadline was met or a fix was released. As there has been no cooperation from the vendor, the details are now being made public.
 
 ### Credits
+Francesca Langella
 
-[MMarble21]
