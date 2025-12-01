@@ -2,6 +2,7 @@
 
 **CVE ID:** CVE-2025-56438 (Assigned by MITRE)
 
+Published by Francesca Langella, currently employed at Abissi srl.
 ---
 
 ## Summary
